@@ -1,3 +1,3 @@
 class class1 {
-    int number = 10;
+    int number = 15;
 }
